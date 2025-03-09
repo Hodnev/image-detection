@@ -1,6 +1,6 @@
-train: /kaggle/input/egg-bulb-tb/datasets/train/images  # Path to training images
-val: /kaggle/input/egg-bulb-tb/datasets/valid/images  # Path to validation images
-test: /kaggle/input/egg-bulb-tb/datasets/test/images  # Path to test images
+train: /kaggle/input/egg-bulb-teb/datasets/train/images  # Path to training images
+val: /kaggle/input/egg-bulb-teb/datasets/valid/images  # Path to validation images
+test: /kaggle/input/egg-bulb-teb/datasets/test/images  # Path to test images
 
 # Classes
 names:
