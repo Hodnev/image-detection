@@ -1,0 +1,12 @@
+train: /kaggle/input/egg-bulb-tb/datasets/train/images  # Path to training images
+val: /kaggle/input/egg-bulb-tb/datasets/valid/images  # Path to validation images
+test: /kaggle/input/egg-bulb-tb/datasets/test/images  # Path to test images
+
+# Classes
+names:
+  0: tennis_ball
+  1: egg
+  2: bulb
+
+# Number of classes
+nc: 3
