@@ -1,6 +1,6 @@
-train: /kaggle/input/cap-dol-rac/datasets/train/images  # Path to training images
-val: /kaggle/input/cap-dol-rac/datasets/valid/images  # Path to validation images
-test: /kaggle/input/cap-dol-rac/datasets/test/images  # Path to test images
+train: /kaggle/input/cap-dol-rac/combined_dataset/train/images  # Path to training images
+val: /kaggle/input/cap-dol-rac/combined_dataset/valid/images  # Path to validation images
+test: /kaggle/input/cap-dol-rac/combined_dataset/test/images  # Path to test images
 
 # Classes
 names:
