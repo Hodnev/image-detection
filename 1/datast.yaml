@@ -1,0 +1,12 @@
+train: /kaggle/input/cap-dol-rac/datasets/train/images  # Path to training images
+val: /kaggle/input/cap-dol-rac/datasets/valid/images  # Path to validation images
+test: /kaggle/input/cap-dol-rac/datasets/test/images  # Path to test images
+
+# Classes
+names:
+  0: racoon
+  1: capybara
+  2: dolphin
+
+# Number of classes
+nc: 3
